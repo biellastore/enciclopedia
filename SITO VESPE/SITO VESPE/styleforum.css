@@ -1,0 +1,39 @@
+body{background-image:URL(sfondo1.jpg);
+	background-attachment:scrool;
+	background-size:100% 100%}
+
+	.tuttelevespe{margin-left:35%;
+					width: 8%;
+					border: 3px solid darkcyan;
+					padding: 15px;
+					font-size:22px;
+					text-align: center;
+					background-color:darkcyan}
+	.manuali{margin-left:30px;
+				width:8%;
+				border: 3px solid darkcyan;
+				padding: 15px;
+				font-size:22px;
+				text-align: center;
+				background-color:darkcyan}
+	.elaborazioni{margin-left:30px;
+					width: 10%;
+					border: 3px solid darkcyan;
+					padding: 15px;
+					font-size:22px;
+					text-align: center;
+					background-color:darkcyan}	
+	.forumh1{font-size:63px;
+				text-align: center;
+				margin-left:25%;
+				margin-right:28%}
+	.forumh2{text-align: center;
+				font-size:30px;
+				margin-left:20%;
+				margin-right:20%;
+				font-weight: bolder}
+	.forump{font-weight:bolder;
+			text-align: center;
+				font-size:25px;
+				margin-left:23%;
+				margin-right:23%}
